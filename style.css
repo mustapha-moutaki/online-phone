@@ -28,7 +28,7 @@ section .container{
 section .container .main{
     width: 32%;
     height: 78%;
-    background-image: url(/back.jpg);
+    background-image: url(back.jpg);
     border-radius: 27px;
     padding: 100px 1px;
 }
